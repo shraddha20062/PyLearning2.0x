@@ -1,0 +1,2 @@
+s="shradha"
+print(s)
